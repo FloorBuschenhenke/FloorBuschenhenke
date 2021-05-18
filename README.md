@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello 
+
+
+📚 ❤️ 🖥️ I'm a Digital Humanist - in - training.
+
+🌱 Currently just started learning to use Git & Github 
+
+
+:egg: Also working on my R skills for data pre-processing, analysis and visualisation (Tidyverse, GGplot ..)
+
+☣️ My repos are my personal archives -for now- and not very well-annotated ☣️
+
+
+
+
+
 
 <!--
 **FloorBuschenhenke/FloorBuschenhenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
