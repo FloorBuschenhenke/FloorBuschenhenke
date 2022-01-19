@@ -3,10 +3,7 @@
 
 📚 ❤️ 🖥️ I'm a Digital Humanist - in - training.
 
-🌱 Currently just started learning to use Git & Github 
-
-
-:egg: Also working on my R skills for data pre-processing, analysis and visualisation (Tidyverse, GGplot ..)
+:egg: Working on my R skills for data pre-processing, analysis and visualisation (Tidyverse, GGplot ..)
 
 ☣️ My repos are my personal archives -for now- and not very well-annotated ☣️
 
