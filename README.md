@@ -1,7 +1,7 @@
 ### Hello world
 
 
-📚 ❤️ 🖥️ I'm a Digital Humanist - in - training.
+📚 ❤️ 🖥️ I'm a Digital Humanist.
 
 :egg: Working on my R skills for data pre-processing, analysis and visualisation (Tidyverse, GGplot ..)
 
