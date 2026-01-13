@@ -1,9 +1,7 @@
 ### Hello world
 
 
-📚 ❤️ 🖥️ I'm a Digital Humanist.
-
-:egg: Working on my R skills for data pre-processing, analysis and visualisation (Tidyverse, GGplot ..)
+📚 ❤️ 🖥️ I'm a Digital Humanist turned software tester.
 
 ☣️ My repos are my personal archives -for now- and not very well-annotated ☣️
 
